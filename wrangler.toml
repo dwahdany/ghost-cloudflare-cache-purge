@@ -1,4 +1,4 @@
-name = "ghost-cloudflare-cache-purge"
+name = "ghost-cache-purge"
 
 main = "src/index.js"
 
